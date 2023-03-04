@@ -1245,3 +1245,5 @@
                  KMeans(n_clusters=4, n_jobs=-1, random_state=3550)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None, drift_kwargs=None)
 2023-03-03 20:53:04,057:INFO:Checking exceptions
 2023-03-03 20:53:04,057:INFO:Preloading libraries
+2023-03-03 21:04:23,746:INFO:Initializing load_model()
+2023-03-03 21:04:23,747:INFO:load_model(model_name=models/K_Means_Model, platform=None, authentication=None, verbose=True)
