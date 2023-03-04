@@ -1,0 +1,12 @@
+body {
+    background-color: #B7380c;
+}
+
+h1{
+    color: white;
+}
+
+.btn-primary{
+    background-color: #B7380c !important;
+    border-color: #B7380c !important;
+}
